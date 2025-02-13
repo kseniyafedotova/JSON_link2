@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "JSON_link2", "JSON_link2.pyproj", "{0A4318B2-48D5-4B8E-AC70-5EA302D75CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A4318B2-48D5-4B8E-AC70-5EA302D75CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4318B2-48D5-4B8E-AC70-5EA302D75CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1434465A-F69B-40D2-A484-8588E33101AA}
+	EndGlobalSection
+EndGlobal
